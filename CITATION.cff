@@ -1,0 +1,36 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "辨世人祀鬼論（DRS 428712045） / Bian shi ren si gui lun: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.2.0",
+  "date-released": "2026-11-23",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/bian-shi-ren-si-gui-lun-drs-428712045/releases/tag/v0.2.0",
+  "repository-code": "https://github.com/poplolioi11/bian-shi-ren-si-gui-lun-drs-428712045",
+  "abstract": "Bian shi ren si gui lun (辨世人祀鬼論) is a single-sheet Chinese-language Christian tract held at the Harvard-Yenching Library (DRS 428712045). The item is catalogued as printed in Xiamen around the 1840s. The exact year of printing is not established, and the author is unknown. Above the frame, a horizontal heading reading right to left gives the general title Yesu jiao jianyao geyan (耶穌教簡要格言). Inside the frame, the piece is titled Bian shi ren si gui lun (辨世人祀鬼論). The main text runs in vertical columns from right to left, and a separate imprint below the final column reads “zai Xia kan song” (在厦刊送). In its argument, the text opens by taking the worship of only one Creator God (zaowu Shangdi) as its starting point. It then asserts that ghosts can neither bestow blessings on people nor send calamities upon them. On this basis it criticizes making offerings to ghosts, citing incense burning and kowtowing at doorways and before graves as concrete examples. The text closes by urging repentance and reliance on Jesus, ending with Jesus' salvation from sin.\n\nThis dataset uses 1 fixed image, including 1 page with main text, from Harvard-Yenching Library DRS 428712045. The AI-reviewed JSON, TXT and TEI transcription retains 8 unresolved comparison items. Full human collation is outstanding.",
+  "keywords": [
+    "辨世人祀鬼論 / Bian shi ren si gui lun",
+    "耶穌教簡要格言 / Yesu jiao jianyao geyan",
+    "廈門 / Xiamen",
+    "1840年代（館目著錄） / 1840s (as catalogued)",
+    "華文基督教印件 / Chinese-language Christian print",
+    "論說 / Discursive tract",
+    "在厦刊送 / Zai Xia kan song",
+    "造物上帝 / Zaowu Shangdi (Creator God)",
+    "祀鬼 / Sacrifice to ghosts (si gui)",
+    "賜福降禍 / Bestowing blessing and sending calamity",
+    "焚香叩拜 / Incense burning and kowtowing",
+    "祭祀批評 / Critique of ritual offerings",
+    "悔改 / Repentance",
+    "耶穌救罪 / Jesus' salvation from sin",
+    "直排右至左版式 / Vertical right-to-left layout",
+    "轉錄資料集 / Transcription dataset"
+  ]
+}

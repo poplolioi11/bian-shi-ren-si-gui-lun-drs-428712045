@@ -32,5 +32,13 @@
     "耶穌救罪 / Jesus' salvation from sin",
     "直排右至左版式 / Vertical right-to-left layout",
     "轉錄資料集 / Transcription dataset"
+  ],
+  "doi": "10.5281/zenodo.24450493",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24450492",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }
